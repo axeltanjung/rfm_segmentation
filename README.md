@@ -1,6 +1,6 @@
 # Customer Segmentation for Bookstore E-Commerce using RFM Analysis (Binning and K-Means Method)
 ## 1.	Introduction
-### A.	Business Undestanding
+### A.	Business Undestandings
 
 Company Book & Gift, second largers bookstore company in Europe, that sells various books from any genre has decline sales approximately 10% for 2 month. After make an analysis, Market Team conclude that the marketing initiative that has been created from the company doesnt targeted fit into the right segment. For make a better marketing initiative, Marketing Team should define dan create a robust segmented customer layer to create initiative of marketing campaign. Another issue is the resource that want to be allocated is limited, so it should be spread efficiently. Company Book & Gift must recognizes customers behavior that have the same needs, preferences, or purchasing behaviors.
 
