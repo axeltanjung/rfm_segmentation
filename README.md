@@ -1,4 +1,4 @@
-# Customer Segmentation for Bookstore E-Commerce using RFM Analysis (Binning and K-Means Method)
+# Customer Segmentation for Bookstore E-Commerce using RFM Analysis (Binning and K-Means Methods)
 ## 1.	Introduction
 ### A.	Business Undestandings
 
